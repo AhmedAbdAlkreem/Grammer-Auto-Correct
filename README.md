@@ -1,11 +1,11 @@
 # Grammer-Auto-Correct
 In this project work to make classification between the phase is correct or wrong if phase is right print the correct phase if phase is wrong be input of Transfer Learning and print the phase begore correct.
 
-## In this project include four parts:
-# First part is preprocessing of dataset.
-# Second part is Machine Learning model.
-# 3th part is Transfer Learning.
-# 4th part is test unseen data with Machine Learning and Transfer Learning.
+# In this project include four parts:
+## First part is preprocessing of dataset.
+## Second part is Machine Learning model.
+## 3th part is Transfer Learning.
+## 4th part is test unseen data with Machine Learning and Transfer Learning.
 
 # First Part:
   we work in text dataset so that we use two library NLTK and Spacy the first one NLTK use to make tokeniziation, stemming, stopword, punctoutaion and transform data to lowercase
