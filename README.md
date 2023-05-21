@@ -2,10 +2,10 @@
 In this project work to make classification between the phase is correct or wrong if phase is right print the correct phase if phase is wrong be input of Transfer Learning and print the phase before correct.
 
 # In this project include four parts:
-## 1)First part is preprocessing of dataset.
-## 2)Second part is Machine Learning model.
-## 3)3th part is Transfer Learning.
-## 4)4th part is test unseen data with Machine Learning and Transfer Learning.
+## 1) First part is preprocessing of dataset.
+## 2) Second part is Machine Learning model.
+## 3) 3th part is Transfer Learning.
+## 4) 4th part is test unseen data with Machine Learning and Transfer Learning.
 
 # First Part:
   we work in text dataset so that we use two library NLTK and Spacy the first one NLTK use to make tokeniziation, stemming, stopword, punctoutaion and transform data to lowercase
