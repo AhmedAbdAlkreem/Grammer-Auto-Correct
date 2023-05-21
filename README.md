@@ -1,5 +1,5 @@
 # Grammer-Auto-Correct
-In this project work to make classification between the phase is correct or wrong if phase is right print the correct phase if phase is wrong be input of Transfer Learning and print the phase begore correct.
+In this project work to make classification between the phase is correct or wrong if phase is right print the correct phase if phase is wrong be input of Transfer Learning and print the phase before correct.
 
 # In this project include four parts:
 ## 1)First part is preprocessing of dataset.
